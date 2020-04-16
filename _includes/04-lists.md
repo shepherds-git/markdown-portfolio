@@ -1,3 +1,4 @@
+My favourites:
 * Jesus Christ
-* locomotive
-* gndla
+* my Wife
+* my hobbies

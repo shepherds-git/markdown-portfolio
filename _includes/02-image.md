@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![ICE3](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ICE_3_Oberhaider-Wald-Tunnel.jpg/800px-ICE_3_Oberhaider-Wald-Tunnel.jpg)
